@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am a software developer specialized in webd evelopment. On a daily basis I program in PHP and Symfony. I publish quite regular posts on my <a href=https://dev.to/quentindamianino>blog</a> about PHP and webdev in general.
+
+🔭 I’m currently working on my portfolio site and blog <br><br>
+🌱 I’m currently learning Gatsby and mastering Symfony <br><br>
+📫 You can reach me on <a href="https://twitter.com/BrdejDamian">Twitter</a>
+
 
 <!--
 **QuentinDamianino/QuentinDamianino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
