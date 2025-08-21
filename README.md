@@ -1,8 +1,7 @@
 ### Hi there 👋
-I am a software developer specialized in webd evelopment. On a daily basis I program in PHP and Symfony. I publish quite regular posts on my <a href=https://dev.to/quentindamianino>blog</a> about PHP and webdev in general.
+I am a software developer specialized in webd evelopment. On a daily basis I program in PHP and Symfony.
 
-🔭 I’m currently working on my portfolio site and blog <br><br>
-🌱 I’m currently learning Gatsby and mastering Symfony <br><br>
+🌱 I’m currently learning Laravel and mastering Symfony <br><br>
 📫 You can reach me on <a href="https://twitter.com/BrdejDamian">Twitter</a>
 
 
